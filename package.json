@@ -1,0 +1,15 @@
+{
+  "name": "node-graphql",
+  "version": "1.0.0",
+  "description": "learn graphql with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shihabudheen US <shihabudheen@dunzo.in>",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
